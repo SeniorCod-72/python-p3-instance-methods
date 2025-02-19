@@ -10,4 +10,5 @@ class Person:
         print("The person is walking.")
 
 Mercy = Person()
-
+Mercy.talk()
+Mercy.walk()
